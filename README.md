@@ -12,7 +12,7 @@ In this Repo you will find 3 colab notebooks:
 The original audio file used to create the samples for the dataset has been downloaded from this video https://www.youtube.com/watch?v=zlqqCAPqMMw&t=1111s
 I manipulated the audio file with ffmeg (conversion from .mp3 to .wav) and Audacity to split the audio based on silence. Then I converted the samples from stereo to mono with a samplerate of 22050 with the help of https://github.com/xiph/rnnoise.git
 
-In the relative directory on this Repo wavs files and metadata.csv have been uploaded.
+Link to download ab_dataset --> https://drive.google.com/drive/folders/1-Eexb1kB0zQUhnBpaQaIxEc7pTnwX61g?usp=share_link
 
 Dataset has been constructed following LJspeech formatter as per this guideline https://tts.readthedocs.io/en/latest/formatting_your_dataset.html#formatting-your-dataset
 
