@@ -14,4 +14,6 @@ I manipulated the audio file with ffmeg (conversion from .mp3 to .wav) and Audac
 
 In the relative directory on this Repo wavs files and metadata.csv have been uploaded.
 
+Dataset has been constructed following LJspeech formatter as per this guideline https://tts.readthedocs.io/en/latest/formatting_your_dataset.html#formatting-your-dataset
+
 Note: I am aware that even if the original audio is of public domain, its usage could be limited.
