@@ -13,7 +13,7 @@ IMPORTANT: the training took a long since the dataset is massive, but if you wan
 
 and the python file used used for training on ab_dataset--> train_glowtts_ab.py
 
-you need to upload this file to your drive if you to give it a try.
+you need to upload this file to your drive if you to want to give it a try.
 
 for the original recipe go here --> https://github.com/coqui-ai/TTS/tree/dev/recipes/ljspeech/glow_tts
 
