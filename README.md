@@ -11,7 +11,7 @@ IMPORTANT: the training took a long since the dataset is massive, but if you wan
 
 3) A Coqui TTS demo to train glow-tts model on a custom dataset --> Assignment7_Veronica_ab.ipynb
 
-and the python file used used for training on ab_dataset--> train_glowtts_ab.py
+and the python file used for training on ab_dataset--> train_glowtts_ab.py
 
 you need to upload this file to your drive if you to want to give it a try.
 
