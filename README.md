@@ -25,7 +25,7 @@ Link to download ab_dataset --> https://drive.google.com/drive/folders/1-Eexb1kB
 
 Dataset has been constructed following LJspeech formatter as per this guideline https://tts.readthedocs.io/en/latest/formatting_your_dataset.html#formatting-your-dataset
 
-but unfortunately I still get an index error, so the notebook is here to have a look but the work it's still in progress.
+but unfortunately I still get an index error, I guess it's due to the metadata.csv, so the notebook is here to have a look but the work it's still in progress.
 
 Note: I am aware that even if the original audio is of public domain, its usage could be limited.
 
