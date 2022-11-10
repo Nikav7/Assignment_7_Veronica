@@ -18,7 +18,7 @@ from TTS.utils.audio import AudioProcessor
 output_path = os.path.dirname("/content/drive/MyDrive/Barbero/output")
 
 # DEFINE DATASET CONFIG
-# Set LJSpeech as our target dataset and define its path.
+# Set ab_dataset as our target dataset and define its path.
 # You can also use a simple Dict to define the dataset and pass it to your custom formatter.
 dataset_config = BaseDatasetConfig(
     name="ljspeech", meta_file_train="metadata.csv", path=os.path.join(output_path, "/content/drive/MyDrive/Barbero/ab_dataset")
