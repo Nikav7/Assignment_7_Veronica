@@ -6,6 +6,7 @@ In this Repo you will find 3 colab notebooks:
 1) A Coqui TTS demo to try pre-trained models available --> coqui_test.ipynb
 
 2) A Coqui TTS demo to train a glow-tts model on LJspeech dataset for Italian- this notebook is intented to show the code used for training, that's the one you need to open --> Assignment7_Veronica.ipynb
+
 IMPORTANT: the training took a long since the dataset is massive, but if you want to see the output you ca try with a lower number of epochs
 
 3) A Coqui TTS demo to train glow-tts model on a custom dataset --> Assignment7_Veronica_ab.ipynb
