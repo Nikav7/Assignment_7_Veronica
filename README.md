@@ -5,9 +5,12 @@ In this Repo you will find 3 colab notebooks:
 
 1) A Coqui TTS demo to try pre-trained models available --> coqui_test.ipynb
 
-2) A Coqui TTS demo to train a model on LJspeech dataset for Italian- this notebook is intented to show the code used for training, that's the one you need to open --> Assignment7_Veronica
+2) A Coqui TTS demo to train a glow-tts model on LJspeech dataset for Italian- this notebook is intented to show the code used for training, that's the one you need to open --> Assignment7_Veronica.ipynb
 
-3) A Coqui TTS demo to train a model on a custom dataset --> Assignment7_Veronica_ab
+3) A Coqui TTS demo to train glow-tts model on a custom dataset --> Assignment7_Veronica_ab.ipynb
+
+and the python file used used for training on ab_dataset--> train_glowtts_ab.py
+for the original recipe go here --> https://github.com/coqui-ai/TTS/tree/dev/recipes/ljspeech/glow_tts
 
 the Dataset is called ab_dataset and it has been built by me based on the voice of Alessandro Barbero, an italian professor. I took inspiration from this video https://www.youtube.com/watch?v=6QAGk_rHipE
 
