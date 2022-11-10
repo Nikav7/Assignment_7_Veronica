@@ -1,5 +1,5 @@
 # Assignment_7_Veronica
-Model Training from Coqui TTS
+Model Training from Coqui TTS -- original Repo --> https://github.com/coqui-ai/TTS
 
 In this Repo you will find 3 colab notebooks:
 
