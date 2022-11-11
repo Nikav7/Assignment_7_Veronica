@@ -8,6 +8,7 @@ In this Repo you will find 3 colab notebooks:
 2) A Coqui TTS demo to train a glow-tts model on LJspeech dataset for Italian - this notebook is intented to show the code used for training --> Assignment7_Veronica.ipynb
 
 link to the folder with the first training output --> https://drive.google.com/drive/folders/1uT2KMHoniPeTJJ3nf_06HlrZOhw0YOug?usp=sharing
+IMPORTANT: if you want to try with this you have to edit the Path accordingly to you drive Path, basically, save this folder in you drive with the same folder named "trainingoutput"
 
 IMPORTANT: the training took a long since the dataset is massive, but if you want to see the output you can try with a lower number of epochs
 
@@ -15,7 +16,7 @@ IMPORTANT: the training took a long since the dataset is massive, but if you wan
 
 and the python file used for training on ab_dataset--> train_glowtts_ab.py
 
-you need to upload this file to your drive if you to want to give it a try.
+you need to upload this file to your drive if you to want to give it a try. More info in comments.
 
 for the original recipe go here --> https://github.com/coqui-ai/TTS/tree/dev/recipes/ljspeech/glow_tts
 
